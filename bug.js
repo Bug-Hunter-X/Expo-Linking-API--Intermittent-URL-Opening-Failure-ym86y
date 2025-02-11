@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Linking` API to open a URL in a web browser.  Under certain circumstances, the URL fails to open, resulting in no visible error message or console warnings.  This often happens intermittently and is difficult to reproduce consistently, leading to user frustration.
